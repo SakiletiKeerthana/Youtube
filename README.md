@@ -1,6 +1,6 @@
 # Youtube
 Description
-Welcome to The Facebook Project. It aims to provide the following functionalities:
+Welcome to The Youtube Project. It aims to provide the following functionalities:
 
 Sign-up
 
